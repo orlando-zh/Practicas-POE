@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orlando Z\u00FAniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\Practicas\\POE practicas\\Practica1POEDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD70435-FAD5-4A68-8A5A-C07ED3FEA20E}|Practica1POE\\Practica1POE.csproj|c:\\users\\orlando z\u00FAniga\\documents\\uni\\u20230405-orlando\\ciclo 4\\practicas\\poe practicas\\practica1poedemo\\practica1poe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8AD70435-FAD5-4A68-8A5A-C07ED3FEA20E}|Practica1POE\\Practica1POE.csproj|solutionrelative:practica1poe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD70435-FAD5-4A68-8A5A-C07ED3FEA20E}|Practica1POE\\Practica1POE.csproj|c:\\users\\orlando z\u00FAniga\\documents\\uni\\u20230405-orlando\\ciclo 4\\practicas\\poe practicas\\practica1poedemo\\practica1poe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD70435-FAD5-4A68-8A5A-C07ED3FEA20E}|Practica1POE\\Practica1POE.csproj|solutionrelative:practica1poe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD70435-FAD5-4A68-8A5A-C07ED3FEA20E}|Practica1POE\\Practica1POE.csproj|C:\\Users\\Orlando Z\u00FAniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\Practicas\\POE practicas\\Practica1POEDemo\\practica1poe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8AD70435-FAD5-4A68-8A5A-C07ED3FEA20E}|Practica1POE\\Practica1POE.csproj|solutionrelative:practica1poe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD70435-FAD5-4A68-8A5A-C07ED3FEA20E}|Practica1POE\\Practica1POE.csproj|c:\\users\\orlando z\u00FAniga\\documents\\uni\\u20230405-orlando\\ciclo 4\\practicas\\poe practicas\\practica1poedemo\\practica1poe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD70435-FAD5-4A68-8A5A-C07ED3FEA20E}|Practica1POE\\Practica1POE.csproj|solutionrelative:practica1poe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Orlando Z\u00FAniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\Practicas\\POE practicas\\Practica1POEDemo\\Practica1POE\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica1POE\\Form1.cs",
+              "ToolTip": "C:\\Users\\Orlando Z\u00FAniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\Practicas\\POE practicas\\Practica1POEDemo\\Practica1POE\\Form1.cs",
+              "RelativeToolTip": "Practica1POE\\Form1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAawCgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T17:52:24.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Orlando Z\u00FAniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\Practicas\\POE practicas\\Practica1POEDemo\\Practica1POE\\Form2.cs",
+              "RelativeDocumentMoniker": "Practica1POE\\Form2.cs",
+              "ToolTip": "C:\\Users\\Orlando Z\u00FAniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\Practicas\\POE practicas\\Practica1POEDemo\\Practica1POE\\Form2.cs",
+              "RelativeToolTip": "Practica1POE\\Form2.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAlwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T17:35:26.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Orlando Z\u00FAniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\Practicas\\POE practicas\\Practica1POEDemo\\Practica1POE\\Form2.cs",
+              "RelativeDocumentMoniker": "Practica1POE\\Form2.cs",
+              "ToolTip": "C:\\Users\\Orlando Z\u00FAniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\Practicas\\POE practicas\\Practica1POEDemo\\Practica1POE\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica1POE\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T17:25:46.173Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Orlando Z\u00FAniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\Practicas\\POE practicas\\Practica1POEDemo\\Practica1POE\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica1POE\\Form1.cs",
+              "ToolTip": "C:\\Users\\Orlando Z\u00FAniga\\Documents\\UNI\\U20230405-Orlando\\Ciclo 4\\Practicas\\POE practicas\\Practica1POEDemo\\Practica1POE\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica1POE\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T17:07:05.78Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
