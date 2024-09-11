@@ -1,0 +1,17 @@
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\PRATICA3\Practica3APP\obj\Debug\net8.0-windows\Practica3APP.csproj.GenerateResource.cache
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\PRATICA3\Practica3APP\obj\Debug\net8.0-windows\Practica3APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\PRATICA3\Practica3APP\obj\Debug\net8.0-windows\Practica3APP.AssemblyInfoInputs.cache
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\PRATICA3\Practica3APP\obj\Debug\net8.0-windows\Practica3APP.AssemblyInfo.cs
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\PRATICA3\Practica3APP\obj\Debug\net8.0-windows\Practica3APP.csproj.CoreCompileInputs.cache
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\PRATICA3\Practica3APP\obj\Debug\net8.0-windows\Practica3APP.sourcelink.json
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\PRATICA3\Practica3APP\obj\Debug\net8.0-windows\Practica3APP.Forms.StudentSystem.resources
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\PRATICA3\Practica3APP\bin\Debug\net8.0-windows\Practica3APP.exe
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\PRATICA3\Practica3APP\bin\Debug\net8.0-windows\Practica3APP.deps.json
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\PRATICA3\Practica3APP\bin\Debug\net8.0-windows\Practica3APP.runtimeconfig.json
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\PRATICA3\Practica3APP\bin\Debug\net8.0-windows\Practica3APP.dll
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\PRATICA3\Practica3APP\bin\Debug\net8.0-windows\Practica3APP.pdb
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\PRATICA3\Practica3APP\obj\Debug\net8.0-windows\Practica3APP.dll
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\PRATICA3\Practica3APP\obj\Debug\net8.0-windows\refint\Practica3APP.dll
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\PRATICA3\Practica3APP\obj\Debug\net8.0-windows\Practica3APP.pdb
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\PRATICA3\Practica3APP\obj\Debug\net8.0-windows\Practica3APP.genruntimeconfig.cache
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\PRATICA3\Practica3APP\obj\Debug\net8.0-windows\ref\Practica3APP.dll

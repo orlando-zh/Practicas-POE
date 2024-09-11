@@ -1,0 +1,5 @@
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\PRATICA3\StudentSystemData\obj\Debug\net8.0-windows\StudentSystemData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\PRATICA3\StudentSystemData\obj\Debug\net8.0-windows\StudentSystemData.AssemblyInfoInputs.cache
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\PRATICA3\StudentSystemData\obj\Debug\net8.0-windows\StudentSystemData.AssemblyInfo.cs
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\PRATICA3\StudentSystemData\obj\Debug\net8.0-windows\StudentSystemData.csproj.CoreCompileInputs.cache
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\PRATICA3\StudentSystemData\obj\Debug\net8.0-windows\StudentSystemData.sourcelink.json
