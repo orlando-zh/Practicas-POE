@@ -1,0 +1,16 @@
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\StudentAdministrador\BussinesLayer\bin\Debug\net8.0\DataAccessLayey.deps.json
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\StudentAdministrador\BussinesLayer\bin\Debug\net8.0\DataAccessLayey.dll
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\StudentAdministrador\BussinesLayer\bin\Debug\net8.0\DataAccessLayey.pdb
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\StudentAdministrador\BussinesLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\StudentAdministrador\BussinesLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\StudentAdministrador\BussinesLayer\obj\Debug\net8.0\DataAccessLayey.csproj.AssemblyReference.cache
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\StudentAdministrador\BussinesLayer\obj\Debug\net8.0\DataAccessLayey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\StudentAdministrador\BussinesLayer\obj\Debug\net8.0\DataAccessLayey.AssemblyInfoInputs.cache
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\StudentAdministrador\BussinesLayer\obj\Debug\net8.0\DataAccessLayey.AssemblyInfo.cs
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\StudentAdministrador\BussinesLayer\obj\Debug\net8.0\DataAccessLayey.csproj.CoreCompileInputs.cache
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\StudentAdministrador\BussinesLayer\obj\Debug\net8.0\DataAccessLayey.sourcelink.json
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\StudentAdministrador\BussinesLayer\obj\Debug\net8.0\DataAcce.CC730C36.Up2Date
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\StudentAdministrador\BussinesLayer\obj\Debug\net8.0\DataAccessLayey.dll
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\StudentAdministrador\BussinesLayer\obj\Debug\net8.0\refint\DataAccessLayey.dll
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\StudentAdministrador\BussinesLayer\obj\Debug\net8.0\DataAccessLayey.pdb
+C:\Users\Orlando Zúniga\Documents\UNI\U20230405-Orlando\Ciclo 4\Practicas\PRACTICAS-POE\StudentAdministrador\BussinesLayer\obj\Debug\net8.0\ref\DataAccessLayey.dll
